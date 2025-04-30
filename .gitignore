@@ -1,0 +1,30 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment directories
+venv/
+env/
+*.env
+
+# IDE-specific files (for example, for VSCode)
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Data files (if you have large datasets, it's better not to store them in Git)
+data/
+
+# TensorFlow model weights (optional if you have large model weights)
+brain_tumor_classifier.h5
+
+# Logs
+logs/
