@@ -47,14 +47,24 @@ To run this project on your local machine, follow these steps:
 
    ```bash
    git clone https://github.com/Nischal0904/brain-tumor-classification.git
-2.Navigate to the project directory:
-  cd brain-tumor-classification
-  
-3.Install the required dependencies:
-  pip install -r requirements.txt
+Navigate to the project directory:
 
-If you don’t have the requirements.txt file, you can manually install the required libraries:
-  pip install tensorflow pandas numpy matplotlib seaborn scikit-learn cryptography
+bash
+Copy
+Edit
+cd brain-tumor-classification
+Install the required dependencies:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+If you don't have the requirements.txt file, you can manually install the required libraries:
+
+bash
+Copy
+Edit
+pip install tensorflow pandas numpy matplotlib seaborn scikit-learn cryptography
 
 ## How to Run the Project
 
